@@ -181,3 +181,5 @@ streamlit run streamlit_app.py
 ## License
 
 This project is for educational and portfolio purposes, built on the publicly available DataCo Smart Supply Chain dataset.
+
+Read More On :https://inquisitive-baklava-3e23f5.netlify.app
